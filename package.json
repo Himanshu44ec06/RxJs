@@ -1,0 +1,23 @@
+{
+  "name": "rxjsexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Himanshu44ec06/RxJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Himanshu44ec06/RxJs/issues"
+  },
+  "homepage": "https://github.com/Himanshu44ec06/RxJs#readme",
+  "dependencies": {
+    "rxjs": "^6.5.2"
+  }
+}
